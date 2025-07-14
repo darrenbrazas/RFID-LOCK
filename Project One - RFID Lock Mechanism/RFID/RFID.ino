@@ -83,9 +83,6 @@ for(int position = 180; position >= 0; position--){
 
   servo.write(position);
   delay(15);
+  }
 }
-}
 
-
-
-// Step 6: Wait, then lock again
