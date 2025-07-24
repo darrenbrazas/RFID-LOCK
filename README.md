@@ -35,3 +35,10 @@ This personal project is a Arduino-based RFID door lock system. It simulates a s
 
 ## Demo/Images
 
+![IMG_8780](https://github.com/user-attachments/assets/48fc05a3-9185-46b1-b425-9c13eb6ca216)
+
+
+
+https://github.com/user-attachments/assets/2b0a66c5-cab4-411b-bbf7-1131210e618d
+
+
